@@ -1,0 +1,25 @@
+{
+  "name": "parcel-plugin-git-describe",
+  "version": "1.0.0",
+  "description": "A parcel plugin that adds the git description to the environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janKir/parcel-plugin-git-describe.git"
+  },
+  "keywords": [
+    "parcel",
+    "parcel-plugin",
+    "git",
+    "describe"
+  ],
+  "author": "janKir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janKir/parcel-plugin-git-describe/issues"
+  },
+  "homepage": "https://github.com/janKir/parcel-plugin-git-describe#readme"
+}
